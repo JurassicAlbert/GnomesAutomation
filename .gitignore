@@ -1,6 +1,7 @@
 venv
 venv/*
-idea
-idea/*
-config/*
+.idea
+.idea/*
+config
 .pytest_cache/*
+__pycache__
