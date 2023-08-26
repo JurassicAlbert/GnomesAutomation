@@ -1,4 +1,8 @@
 ## Gnomes Automation
+
+Developed a small Selenium project with the aim of gaining a better understanding of Selenium, pytest and its functionalities. <br>
+Initially designed to automate a game from my childhood for fun and nostalgic purposes.
+
 ### v0.1
 
 Config:
